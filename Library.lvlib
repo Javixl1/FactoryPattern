@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="csv.lvclass" Type="LVClass" URL="../csv/csv.lvclass"/>
+	<Item Name="Class Selector.ctl" Type="VI" URL="../Class Selector.ctl"/>
 	<Item Name="Format Key Class.lvclass" Type="LVClass" URL="../Format Key Class/Format Key Class.lvclass"/>
 	<Item Name="Key.lvclass" Type="LVClass" URL="../Key class/Key.lvclass"/>
 </Library>
